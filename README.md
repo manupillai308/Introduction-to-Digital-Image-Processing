@@ -14,3 +14,5 @@ DIP 4: https://www.youtube.com/watch?v=q5m-wLyaayA
 DIP 5: https://www.youtube.com/watch?v=mbCqxnSpHCQ
 
 DIP 6: https://www.youtube.com/watch?v=pUQvhn0zcpA
+
+DIP 7: https://www.youtube.com/watch?v=ALJ7LfClTeU
